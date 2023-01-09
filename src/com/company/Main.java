@@ -31,7 +31,7 @@ public class Main {
         System.out.println(Arrays.toString(gen3_5_11()));
         System.out.println(Arrays.toString(genNatural(10)));
 
-        System.out.println(Arrays.toString(genSquare()));
+      //  System.out.println(Arrays.toString(genSquare()));
 
         int n=10;
         int square=n*n;

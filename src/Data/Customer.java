@@ -36,5 +36,6 @@ package Data;
                     ", tier=" + tier +
                     '}';
         }
+
     }
 
